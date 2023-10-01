@@ -6,7 +6,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
-<p>Nextra-Diary: CRUD Fullstack BoilerPlate Library. NextJS, PrismaORM, MongoDB.
+<p>Nextra-Diary: CRUD Fullstack BoilerPlate Archive. NextJS, PrismaORM, MongoDB.
 <p/>
 
 <br>
